@@ -1,0 +1,7 @@
+genai/
+__pycache__/
+lambda_library/
+
+lambda_function*
+lambda_library*.zip
+.DS_Store
